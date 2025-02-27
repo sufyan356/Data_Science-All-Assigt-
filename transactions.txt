@@ -1,0 +1,12 @@
+sufyan,Deposit: $80.00, New Balance: $92.00
+joe,Deposit: $100.00, New Balance: $120.00
+sufyan,Withdrawal: $10.00, New Balance: $82.00
+joe,Withdrawal: $100.00, New Balance: $20.00
+haider,Withdrawal: $30.00, New Balance: $12315.00
+dannel,Deposit: $10.00, New Balance: $12355.00
+lamda,Deposit: $8.00, New Balance: $20.00
+l,Deposit: $12.00, New Balance: $24.00
+z,Deposit: $9.00, New Balance: $10.00
+x,Deposit: $2.00, New Balance: $3.00
+x,Withdrawal: $2.00, New Balance: $1.00
+sufyan,Deposit: $67.00, New Balance: $149.00

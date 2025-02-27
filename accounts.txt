@@ -1,0 +1,10 @@
+sufyan,149.0
+joe,20.0
+haider,12315.0
+dannel,12355.0
+kawi,10.0
+lamda,20.0
+danel,12.0
+l,24.0
+z,10.0
+x,1.0
